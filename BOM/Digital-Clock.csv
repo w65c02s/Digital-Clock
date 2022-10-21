@@ -1,0 +1,142 @@
+Source:,E:\Clock Project\Digital-Clock\Digital-Clock.kicad_sch,,,,,
+Date:,19-10-2022 21:15,,,,,
+Tool:,Eeschema (6.0.8),,,,,
+Generator:,E:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,
+Component Count:,103,,,,,
+,,,,,,
+Individual Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+,,AFF1,LTS-6960HR,Display_Character:LTS-6960HR,Display_7Segment:7SegmentLED_LTS6760_LTS6780,https://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf
+,,AFF2,LTS-6960HR,Display_Character:LTS-6960HR,Display_7Segment:7SegmentLED_LTS6760_LTS6780,https://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf
+,,AFF3,LTS-6960HR,Display_Character:LTS-6960HR,Display_7Segment:7SegmentLED_LTS6760_LTS6780,https://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf
+,,AFF4,LTS-6960HR,Display_Character:LTS-6960HR,Display_7Segment:7SegmentLED_LTS6760_LTS6780,https://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf
+,,AFF5,LTS-6960HR,Display_Character:LTS-6960HR,Display_7Segment:7SegmentLED_LTS6760_LTS6780,https://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf
+,,AFF6,LTS-6960HR,Display_Character:LTS-6960HR,Display_7Segment:7SegmentLED_LTS6760_LTS6780,https://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf
+,,C1,39p,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C2,39p,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C3,4.7u,Digital-Clock-rescue:CP-Device,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,
+,,C4,4.7u,Digital-Clock-rescue:CP-Device,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,
+,,C5,10u,Digital-Clock-rescue:CP-Device,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,
+,,C6,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C7,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C8,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C9,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C10,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C11,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C12,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C13,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C14,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C15,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C16,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C17,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C18,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C19,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C20,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C21,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,C22,0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+,,D1,1N4148,Diode:1N4148,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+,,D2,1N4148,Diode:1N4148,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+,,D3,LED,Device:LED,LED_THT:LED_D3.0mm,~
+,,D4,LED,Device:LED,LED_THT:LED_D3.0mm,~
+,,J1,Barrel_Jack_MountingPin,Connector:Barrel_Jack_MountingPin,Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal,~
+,,R1,220K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R2,10M,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R3,5K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R4,2.2K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R5,5K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R6,2.2K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R7,10K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R8,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R9,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R10,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R11,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R12,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R13,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R14,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R15,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R16,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R17,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R18,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R19,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R20,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R21,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R22,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R23,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R24,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R25,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R26,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R27,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R28,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R29,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R30,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R31,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R32,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R33,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R34,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R35,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R36,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R37,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R38,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R39,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R40,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R41,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R42,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R43,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R44,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R45,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R46,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R47,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R48,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,R49,220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+,,SW1,SW_Push,Switch:SW_Push,Button_Switch_THT:SW_PUSH_6mm,~
+,,SW2,SW_Push,Switch:SW_Push,Button_Switch_THT:SW_PUSH_6mm,~
+,,T1,2N2222,Transistor_BJT:2N2219,Package_TO_SOT_THT:TO-92,http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF
+,,U1,CD4060,Digital-Clock-rescue:CD4060-CD4060,Package_DIP:DIP-16_W7.62mm,DOCUMENTATION
+,,U2,4013,4xxx:4013,Package_DIP:DIP-14_W7.62mm,http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF
+,,U3,74LS90,74xx:74LS90,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS90
+,,U4,74LS47,74xx:74LS47,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS47
+,,U5,74LS90,74xx:74LS90,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS90
+,,U6,74LS47,74xx:74LS47,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS47
+,,U7,74LS90,74xx:74LS90,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS90
+,,U8,74LS47,74xx:74LS47,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS47
+,,U9,74LS90,74xx:74LS90,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS90
+,,U10,74LS47,74xx:74LS47,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS47
+,,U11,74LS90,74xx:74LS90,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS90
+,,U12,74LS47,74xx:74LS47,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS47
+,,U13,74LS90,74xx:74LS90,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS90
+,,U14,74LS47,74xx:74LS47,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS47
+,,U15,74LS08,74xx:74LS08,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS08
+,,U16,74LS32,74xx:74LS32,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS32
+,,U17,74LS14,74xx:74LS14,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS14
+,,X1,32Khz,Device:Crystal,Crystal:Crystal_Round_D1.0mm_Vertical,~
+,,,,,,
+,,,,,,
+,,,,,,
+Collated Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+1,6,"AFF1, AFF2, AFF3, AFF4, AFF5, AFF6",LTS-6960HR,Display_Character:LTS-6960HR,Display_7Segment:7SegmentLED_LTS6760_LTS6780,https://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf
+2,2,"C1, C2",39p,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+3,2,"C3, C4",4.7u,Digital-Clock-rescue:CP-Device,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,
+4,1,C5,10u,Digital-Clock-rescue:CP-Device,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,
+5,17,"C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22",0.1u,Device:C,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~
+6,2,"D1, D2",1N4148,Diode:1N4148,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+7,2,"D3, D4",LED,Device:LED,LED_THT:LED_D3.0mm,~
+8,1,J1,Barrel_Jack_MountingPin,Connector:Barrel_Jack_MountingPin,Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal,~
+9,1,R1,220K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+10,1,R2,10M,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+11,2,"R3, R5",5K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+12,2,"R4, R6",2.2K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+13,1,R7,10K,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+14,42,"R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45, R46, R47, R48, R49",220,Device:R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+15,2,"SW1, SW2",SW_Push,Switch:SW_Push,Button_Switch_THT:SW_PUSH_6mm,~
+16,1,T1,2N2222,Transistor_BJT:2N2219,Package_TO_SOT_THT:TO-92,http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF
+17,1,U1,CD4060,Digital-Clock-rescue:CD4060-CD4060,Package_DIP:DIP-16_W7.62mm,DOCUMENTATION
+18,1,U2,4013,4xxx:4013,Package_DIP:DIP-14_W7.62mm,http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF
+19,6,"U3, U5, U7, U9, U11, U13",74LS90,74xx:74LS90,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS90
+20,6,"U4, U6, U8, U10, U12, U14",74LS47,74xx:74LS47,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/sn74LS47
+21,1,U15,74LS08,74xx:74LS08,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS08
+22,1,U16,74LS32,74xx:74LS32,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS32
+23,1,U17,74LS14,74xx:74LS14,Package_DIP:DIP-14_W7.62mm,http://www.ti.com/lit/gpn/sn74LS14
+24,1,X1,32Khz,Device:Crystal,Crystal:Crystal_Round_D1.0mm_Vertical,~

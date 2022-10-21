@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name CD4060)(type Legacy)(uri "C:/Users/Admin/Desktop/Clock Project/Kicad/library/CD4060.lib")(options "")(descr ""))
+  (lib (name Digital-Clock-rescue)(type Legacy)(uri ${KIPRJMOD}/Digital-Clock-rescue.lib)(options "")(descr ""))
+)
